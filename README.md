@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @herculesoliveira40
-- 👀 I’m interested in Web
-- 🎓 Desenvolvimento de Sistemas
+- 👀 I’m interested in Development Web
+- 🎓 Systems Development
 - 🌱 I’m currently learning 🐘 🐍...
-- 😎 🏆 🥇👻🤖🤠🥳 
+- 😎🤠🥳 🏆 🥇👻🤖 
 - 
 <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculesoliveira40&theme=blue-green" alt="...">
@@ -25,12 +25,12 @@
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="...">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="...">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="...">
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="...">
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="...">
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="...">
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="...">
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="...">
  <img src="https://www.python.org/static/community_logos/python-powered-h.svg" height="30" width="40" style="max-width: 100%;" alt="...">
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="...">
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="...">
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="...">
  
 
  <img src="..." alt="...">
